@@ -60,4 +60,5 @@
 
 - 📋 [Чек-лист по функциональному тестированию](./test_cases/functional_test.md)
 - 📋 [Чек-лист по регрессионному тестированию](./test_cases/regression_test.md)
-- 🐞 [Баг-репорты](../bug-reports.md)
+- 📋 [Тест-план](./test_plan.md)
+- 🐞 [Баг-репорты](./bag_reports.md)
